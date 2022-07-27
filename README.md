@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, welcome to my GitHub! 👋
 ## This is my highest level during my piscine! 🏊
 
 
@@ -15,5 +15,5 @@ I'm currently studying in 42 Lisboa. 🎓
 I was asked to private my projects with the solutions so I don't ruin your Piscine experience, but feel free to check my other C projects so you can learn more about this language! 
 
 
-# If you have any problems, feel free to contact me! 
-Check also my piscine guide! Under development!
+#### If you have any problems, feel free to contact me! 
+#### Check also my piscine guide! Under development!
