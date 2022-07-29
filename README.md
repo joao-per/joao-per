@@ -2,7 +2,7 @@
 My name is João Pereira 🤝
 I'm currently studying in 42 School in Lisboa. 🎓
 
-## This is my highest level during my piscine! 🏊
+## This was my highest level during piscine! 🏊
 
 
 
