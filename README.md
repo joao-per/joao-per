@@ -1,5 +1,7 @@
-### Hi there, welcome to my GitHub! 👋
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=My+name+is+João+Pereira"></a>
+<p align="center">
+<br>
+<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Welcome,+I'm+João">
+</a>
 I'm currently studying in 42 School in Lisboa. 🎓
 
 ## This was my highest level during piscine! 🏊
