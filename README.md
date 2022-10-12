@@ -1,5 +1,5 @@
 ### Hi there, welcome to my GitHub! 👋
-My name is João Pereira 🤝
+<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=My+name+is+Joao+Pereira"></a>
 I'm currently studying in 42 School in Lisboa. 🎓
 
 ## This was my highest level during piscine! 🏊
