@@ -1,8 +1,9 @@
 <p align="center">
 <br>
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Welcome,+I'm+João">
+<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Welcome+to+my+Github">
 </a>
-I'm currently studying in 42 School in Lisboa. 🎓
+
+I'm João and I'm currently studying in 42 School in Lisboa. 🎓
 
 ## This was my highest level during piscine! 🏊
 
