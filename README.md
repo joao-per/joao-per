@@ -5,14 +5,8 @@
 
 ## Hi, I'm João! 🤝
 
-### I'm currently studying in 42 School in Lisboa. This was my highest level during piscine! 🏊
+### I'm currently studying in 42 School in Lisboa. This is my current level on 42! 🙏
 
-
-
-
-![Piscine stats](https://user-images.githubusercontent.com/109032016/181627189-0bf94f90-171a-4bc2-903b-a4ccd1dbbfc0.png)
-
-## This is my current level on 42! 🙏
 ![joao-per's 42 stats](https://badge.mediaplus.ma/levi/joao-per?1337Badge=off)
 
 Here you'll find the projects I did during my lifetime! 🧑‍💻
