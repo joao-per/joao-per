@@ -14,9 +14,9 @@
 <div align="center">
 
 <a href="https://github.com/joao-per/libft">![42 Libft](https://github.com/joao-per/joao-per/blob/main/Badges/Libft.png)</a>
-<a href="https://github.com/joao-per/printf">![42 Libft](https://github.com/joao-per/joao-per/blob/main/Badges/Printf.png)</a>
-<a href="https://github.com/joao-per/get_next_line">![42 Libft](https://github.com/joao-per/joao-per/blob/main/Badges/GetNextLine.png)</a>
-<a href="https://github.com/joao-per/minitalk">![42 Libft](https://github.com/joao-per/joao-per/blob/main/Badges/Minitalk.png)</a>
+<a href="https://github.com/joao-per/printf">![42 Printf](https://github.com/joao-per/joao-per/blob/main/Badges/Printf.png)</a>
+<a href="https://github.com/joao-per/get_next_line">![42 GNL](https://github.com/joao-per/joao-per/blob/main/Badges/GetNextLine.png)</a>
+<a href="https://github.com/joao-per/minitalk">![42 Minitalk](https://github.com/joao-per/joao-per/blob/main/Badges/Minitalk.png)</a>
 
 </div>
 <details>
