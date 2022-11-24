@@ -9,7 +9,7 @@
 
 ![joao-per's 42 stats](https://badge.mediaplus.ma/levi/joao-per?1337Badge=off)
 
-## 42 School Projects 🧑‍💻
+### 42 School Projects 🧑‍💻
 
 <div align="center">
 
