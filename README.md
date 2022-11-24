@@ -10,6 +10,7 @@
 ![joao-per's 42 stats](https://badge.mediaplus.ma/levi/joao-per?1337Badge=off)
 
 Here you'll find the projects I did during my lifetime! 🧑‍💻
+<a href="https://github.com/joao-per/libft">![42 Badge](https://github.com/joao-per/joao-per/blob/main/Badges/libft.png)</a>
 
 I was asked to private my projects with the solutions so I don't ruin your Piscine experience, but feel free to check my other C projects so you can learn more about this language! 🧠
 
