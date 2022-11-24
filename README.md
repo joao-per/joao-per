@@ -7,7 +7,7 @@
 
 ### I'm currently studying in 42 School in Lisboa. This is my current level on 42! 🙏
 
-![joao-per's 42 stats](https://badge.mediaplus.ma/levi/joao-per?1337Badge=off)
+![joao-per's 42 stats](https://badge.mediaplus.ma/levi/joao-per?1337Badge=off&UM6P=off)
 
 ### 42 School Projects 🧑‍💻
 
