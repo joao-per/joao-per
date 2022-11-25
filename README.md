@@ -33,5 +33,6 @@
 </details>
 
 
-#### If you have any questions, feel free to contact me! 💌
-#### Check also my piscine guide! (Under development)! 📜
+#### If you have any questions, feel free to contact me! 💌-
+#### How to reach me: [Linkedin](https://www.linkedin.com/in/pereirajoão/) 📫
+
