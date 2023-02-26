@@ -36,7 +36,10 @@
 | [push_swap](https://github.com/joao-per/push_swap)       | C          | 125% | Sort Numbers in a stack.                                              |
 
 </details>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py)](https://skillicons.dev)
+
+#### My Skills
+
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py,mysql)
 
 #### If you have any questions, feel free to contact me! 💌-
 #### How to reach me: [Linkedin](https://www.linkedin.com/in/pereirajoão/) 📫
