@@ -17,6 +17,8 @@
 <a href="https://github.com/joao-per/printf">![42 Printf](https://github.com/joao-per/joao-per/blob/main/Badges/Printf.png)</a>
 <a href="https://github.com/joao-per/get_next_line">![42 GNL](https://github.com/joao-per/joao-per/blob/main/Badges/GetNextLine.png)</a>
 <a href="https://github.com/joao-per/minitalk">![42 Minitalk](https://github.com/joao-per/joao-per/blob/main/Badges/Minitalk.png)</a>
+<a href="https://github.com/joao-per/push_swap">![42 PushSwap](https://github.com/joao-per/joao-per/blob/main/Badges/Push_Swap.png)</a>
+<a href="https://github.com/joao-per/so_long">![42 So_Long](https://github.com/joao-per/joao-per/blob/main/Badges/So_Long.png)</a>
 
 </div>
 
@@ -33,6 +35,7 @@
 | [ft_printf](https://github.com/joao-per/ft_printf)       | C          | 100% | Recode the standard C library function, printf.                       |
 | born2beroot                                              | Shell, CLI | 110% | Create a virtual machine to host a Debian server.                     |
 | [minitalk](https://github.com/joao-per/minitalk)         | C          | 125% | Make 2 terminals talk.                                                |
+| [push_swap](https://github.com/joao-per/push_swap)       | C          | 125% | Sort Numbers in a stack.                                              |
 | [push_swap](https://github.com/joao-per/push_swap)       | C          | 125% | Sort Numbers in a stack.                                              |
 
 </details>
