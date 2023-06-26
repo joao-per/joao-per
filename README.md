@@ -15,6 +15,8 @@
 <a href="https://github.com/joao-per/get_next_line">![42 GNL](https://github.com/joao-per/joao-per/blob/main/Badges/GetNextLine.png)</a>
 <a href="https://github.com/joao-per/minitalk">![42 Minitalk](https://github.com/joao-per/joao-per/blob/main/Badges/Minitalk.png)</a>
 <a href="https://github.com/joao-per/push_swap">![42 PushSwap](https://github.com/joao-per/joao-per/blob/main/Badges/Push_Swap.png)</a>
+<a href="https://github.com/joao-per/philosopher">![42 Philosopher](https://github.com/joao-per/joao-per/blob/main/Badges/Philosophers.png)</a>
+<a href="https://github.com/joao-per/minishell">![42 Minishell](https://github.com/joao-per/joao-per/blob/main/Badges/Minishell.png)</a>
 
 </div>
 
@@ -33,6 +35,8 @@
 | [minitalk](https://github.com/joao-per/minitalk)         | C          | 125% | Make 2 terminals talk.                                                |
 | [push_swap](https://github.com/joao-per/push_swap)       | C          | 125% | Sort Numbers in a stack.                                              |
 | [so_long](https://github.com/joao-per/so_long)           | C          | 123% | Short 2D game in C                                                    |
+| [minishell](https://github.com/joao-per/minishell)       | C          | 101% | Replicate bash terminal in C                                          |
+| [philosophers](https://github.com/joao-per/philosophers) | C          | 100% | Threads in C                                                          |
 
 </details>
 
