@@ -1,11 +1,8 @@
-<p align="center">
-<br>
-<img src="https://readme-typing-svg.herokuapp.com/?size=25&color=2586F7&center=true&vCenter=true&lines=Welcome+to+my+Github">
-</a>
 
-## Hi, I'm João! 🤝
+![Header](https://github.com/joao-per/joao-per/blob/main/github-header-image.png)
 
-### I'm currently studying in 42 School in Lisboa. Here are some of my Projects 🧑‍💻
+
+## I'm currently studying in 42 School in Lisboa. Here are some of my Projects 🧑‍💻
 
 
 <div align="center">
