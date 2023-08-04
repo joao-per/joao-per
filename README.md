@@ -19,6 +19,7 @@
 <a href="https://github.com/joao-per/so_long">![42 So_Long](https://github.com/joao-per/joao-per/blob/main/Badges/So_Long.png)</a>
 <a href="https://github.com/joao-per/philosophers">![42 Philosopher](https://github.com/joao-per/joao-per/blob/main/Badges/Philosophers.png)</a>
 <a href="https://github.com/joao-per/minishell">![42 Minishell](https://github.com/joao-per/joao-per/blob/main/Badges/Minishell.png)</a>
+<a href="https://github.com/joao-per/cub3d">![42 Cub3d](https://github.com/joao-per/joao-per/blob/main/Badges/Cub3d.png)</a>
 </div>
 
 <div align="center">
