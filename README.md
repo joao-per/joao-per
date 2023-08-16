@@ -2,7 +2,7 @@
 ![Header](https://github.com/joao-per/joao-per/blob/main/github-header-image.png)
 
 
-## I'm currently studying in 42 School in Lisboa. Here are some of my Projects 🧑‍💻
+## I'm currently studying at 42 School in Lisbon. Here are some of my Projects 🧑‍💻
 
 
 <div align="center">
@@ -11,12 +11,11 @@
 <a href="https://github.com/joao-per/printf">![42 Printf](https://github.com/joao-per/joao-per/blob/main/Badges/Printf.png)</a>
 <a href="https://github.com/joao-per/get_next_line">![42 GNL](https://github.com/joao-per/joao-per/blob/main/Badges/GetNextLine.png)</a>
 <a href="https://github.com/joao-per/minitalk">![42 Minitalk](https://github.com/joao-per/joao-per/blob/main/Badges/Minitalk.png)</a>
-<a href="https://github.com/joao-per/push_swap">![42 PushSwap](https://github.com/joao-per/joao-per/blob/main/Badges/Push_Swap.png)</a>
 </div>
 
 <div align="center">
 
-<a href="https://github.com/joao-per/so_long">![42 So_Long](https://github.com/joao-per/joao-per/blob/main/Badges/So_Long.png)</a>
+<a href="https://github.com/joao-per/push_swap">![42 PushSwap](https://github.com/joao-per/joao-per/blob/main/Badges/Push_Swap.png)</a>
 <a href="https://github.com/joao-per/philosophers">![42 Philosopher](https://github.com/joao-per/joao-per/blob/main/Badges/Philosophers.png)</a>
 <a href="https://github.com/joao-per/minishell">![42 Minishell](https://github.com/joao-per/joao-per/blob/main/Badges/Minishell.png)</a>
 <a href="https://github.com/joao-per/cub3d">![42 Cub3d](https://github.com/joao-per/joao-per/blob/main/Badges/Cub3d.png)</a>
