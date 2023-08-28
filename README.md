@@ -16,10 +16,10 @@
 
 <div align="center">
 
-<a href="https://github.com/joao-per/cpp-modules">![42 CPP](https://github.com/joao-per/joao-per/blob/main/Badges/CPP.png)</a>
 <a href="https://github.com/joao-per/philosophers">![42 Philosopher](https://github.com/joao-per/joao-per/blob/main/Badges/Philosophers.png)</a>
 <a href="https://github.com/joao-per/minishell">![42 Minishell](https://github.com/joao-per/joao-per/blob/main/Badges/Minishell.png)</a>
 <a href="https://github.com/joao-per/cub3d">![42 Cub3d](https://github.com/joao-per/joao-per/blob/main/Badges/Cub3d.png)</a>
+<a href="https://github.com/joao-per/cpp-modules">![42 CPP](https://github.com/joao-per/joao-per/blob/main/Badges/CPP.png)</a>
 </div>
 
 <div align="center">
@@ -39,13 +39,14 @@
 | [so_long](https://github.com/joao-per/so_long)           | C          | 123% | Short 2D game in C                                                    |
 | [minishell](https://github.com/joao-per/minishell)       | C          | 101% | Replicate bash terminal in C                                          |
 | [philosophers](https://github.com/joao-per/philosophers) | C          | 100% | Threads in C                                                          |
+| [cub3d](https://github.com/joao-per/cub3d)               | C          | 100% | Raycasting in C                                                       |
 
 </details>
 
 #### My Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,py,mysql,java)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,py,mysql,java)
 
-#### If you have any questions, feel free to contact me! 💌-
+#### If you have any questions, feel free to contact me! 💌
 #### How to reach me: [Linkedin](https://www.linkedin.com/in/pereirajoão/) 📫
 
