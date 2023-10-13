@@ -20,6 +20,7 @@
 <a href="https://github.com/joao-per/minishell">![42 Minishell](https://github.com/joao-per/joao-per/blob/main/Badges/Minishell.png)</a>
 <a href="https://github.com/joao-per/cub3d">![42 Cub3d](https://github.com/joao-per/joao-per/blob/main/Badges/Cub3d.png)</a>
 <a href="https://github.com/joao-per/cpp-modules">![42 CPP](https://github.com/joao-per/joao-per/blob/main/Badges/CPP.png)</a>
+<a href="https://github.com/joao-per/netpractice">![42 NetPractice](https://github.com/joao-per/joao-per/blob/main/Badges/NetPractice.png)</a>
 </div>
 
 <div align="center">
@@ -39,7 +40,9 @@
 | [so_long](https://github.com/joao-per/so_long)           | C          | 123% | Short 2D game in C                                                    |
 | [minishell](https://github.com/joao-per/minishell)       | C          | 101% | Replicate bash terminal in C                                          |
 | [philosophers](https://github.com/joao-per/philosophers) | C          | 100% | Threads in C                                                          |
-| [cub3d](https://github.com/joao-per/cub3d)               | C          | 100% | Raycasting in C                                                       |
+| [cub3d](https://github.com/joao-per/cub3d)               | C          | 103% | Raycasting in C                                                       |
+| [netpractice](https://github.com/joao-per/netpractice)   | Networking | 100% | Networking, routing and addresses introduction                        |
+| [cpp-modules](https://github.com/joao-per/cpp-modules)   | C++        | 100% | Introduction to C++                                                   |
 
 </details>
 
