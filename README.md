@@ -27,6 +27,7 @@
 <a href="https://github.com/joao-per/cpp-modules">![42 CPP](https://github.com/joao-per/joao-per/blob/main/Badges/CPP.png)</a>
 <a href="https://github.com/joao-per/netpractice">![42 NetPractice](https://github.com/joao-per/joao-per/blob/main/Badges/NetPractice.png)</a>
 <a href="https://github.com/joao-per/ft_irc">![42 FT_IRC](https://github.com/joao-per/joao-per/blob/main/Badges/Ft_irc.png)</a>
+<a href="https://github.com/joao-per/inception">![42 Inception](https://github.com/joao-per/joao-per/blob/main/Badges/Inception.png)</a>
 </div>
 
 <div align="center">
@@ -49,6 +50,7 @@
 | [cub3d](https://github.com/joao-per/cub3d)               | C          | 103% | Raycasting in C                                                       |
 | [netpractice](https://github.com/joao-per/netpractice)   | Networking | 100% | Networking, routing and addresses introduction                        |
 | [cpp-modules](https://github.com/joao-per/cpp-modules)   | C++        | 100% | Introduction to C++                                                   |
+| [ft_irc](https://github.com/joao-per/ft_irc)             | C++        | 125% | A basic implementation of an IRC server                               |
 
 </details>
 
