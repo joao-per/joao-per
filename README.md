@@ -2,7 +2,7 @@
 ![Header](https://github.com/joao-per/joao-per/blob/main/github-header-image.png)
 
 
-## I'm currently studying at 42 School in Lisbon. Here are some of my Projects 🧑‍💻
+## Here are the projects I've done at 42 Lisbon! You can check all of them in my Repositories tab  🧑‍💻
 
 
 <div align="center">
@@ -31,6 +31,8 @@
 </div>
 
 <div align="center">
+  
+<a href="https://github.com/abaiao-r/ft_transcendence">![42 Transcendence](https://github.com/joao-per/joao-per/blob/main/Badges/Transcendence.png)</a>
 
 </div>
 <details>
@@ -52,6 +54,7 @@
 | [cpp-modules](https://github.com/joao-per/cpp-modules)   | C++        | 100% | Introduction to C++                                                   |
 | [ft_irc](https://github.com/joao-per/ft_irc)             | C++        | 125% | A basic implementation of an IRC server                               |
 | [inception](https://github.com/joao-per/inception)       | Docker     | 100% | Wordpress website built with MariaDB and Nginx                        |
+| [transcendence](https://github.com/abaiao-r/ft_transcendence)       | Python     | 125% | Pong website made with Python                              |
 
 </details>
 
